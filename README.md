@@ -17,7 +17,13 @@ We will be now going through object-oriented Programming
 
     print(random.random)
   ```
-- This will now print a random number 
+- This will now print a random number in between 0 and 1
 - The benefit of using the builtin libraries is that there is lots of documentations to help learn the library 
+- You can also do 
+```python
+    from random import *
+    
+    print(random()) # will print random number from 0-1
 
+```
 
