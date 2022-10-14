@@ -27,3 +27,8 @@ We will be now going through object-oriented Programming
 
 ```
 
+Step 1: create animal.py as parent class
+Step 2: create reptile.py as child to inherit - abstract etc
+Step 3: create snake.py and inherit from reptile
+Step 4: create python_oop.py 
+
